@@ -1,0 +1,67 @@
+.execute {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin: 10px;
+   border-radius: 10px;
+   border-style: groove;
+}
+.execute {
+   text-align: center;
+}
+.minusb {
+   text-align: center;
+}
+.minusb {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   border-radius: 80px;
+   border-style: outset;
+   width: 90px;
+   height: 30px;
+   background-color: #B71C1C;
+}
+.minusb:active {
+   background-color: red;
+}
+.re {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   border-radius: 80px;
+   border-style: solid;
+   width: 90px;
+   height: 30px;
+   background-color: #01579B;
+   position: relative;
+   left: 130px;
+   right: 130px;
+   bottom: 48px;
+}
+.re {
+   text-align: center;
+}
+.re:active {
+   background-color: skyblue;
+}
+.add {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   border-radius: 80px;
+   border-style: inset;
+   width: 90px;
+   height: 30px;
+   background-color: #FFEB3B;
+   position: relative;
+   left: 250px;
+   right: 250px;
+   bottom: 95px;
+}
+.add {
+   text-align: center;
+}
+.add:active {
+   background-color: yellow;
+}
